@@ -1,0 +1,28 @@
+name: 3D posters
+favicon: null
+layout_spectrum: 0.9227531219366938
+typography_spectrum: 0.3777652243152261
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.09940860350616276
+  lightness: 0.36392017686739564
+  saturation: 0.697780376765877
+  rhythmicContrast: 0.43741254159249365
+purpose: []
