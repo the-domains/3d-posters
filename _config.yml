@@ -1,7 +1,7 @@
 name: 3D posters
 favicon: null
-layout_spectrum: 0.62329
-typography_spectrum: 0.31605
+layout_spectrum: 0.99706
+typography_spectrum: 0.11057
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.09940860350616276
   lightness: 0.375
   saturation: 0.697780376765877
-  rhythmicContrast: 0.43741254159249365
+  rhythmicContrast: 0.75
 purpose: []
