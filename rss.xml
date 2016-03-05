@@ -4,7 +4,7 @@
         <description><![CDATA[3D posters]]></description>
         <link>https://thegrid.ai/3d-posters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 08:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 08:30:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3d-posters/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[3D ART - about]]></title>
@@ -14,25 +14,11 @@
             <pubDate>Sat, 05 Mar 2016 08:26:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Optimik]]></title>
-            <description><![CDATA[<article><h1>Optimik</h1><p>Optimik je softver za optimalno ukrajanje pločastih materijala</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c702ed506a3cd6c8015a2c40a8ebe631f203d89.jpg"></article>]]></description>
-            <link>https://thegrid.ai/3d-posters/40214a1e-4f8a-403f-af10-f5b212958082/index.html</link>
-            <guid isPermaLink="false">40214a1e-4f8a-403f-af10-f5b212958082</guid>
-            <pubDate>Sun, 28 Feb 2016 11:29:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.relikon.com/assets/images/digi-thron21606x978-168.jpg">]]></description>
             <link>https://thegrid.ai/3d-posters/54424ad8-f454-43de-8217-cfd02bdefdc9/index.html</link>
             <guid isPermaLink="false">54424ad8-f454-43de-8217-cfd02bdefdc9</guid>
             <pubDate>Tue, 16 Feb 2016 21:04:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>test tekst</p>]]></description>
-            <link>https://thegrid.ai/3d-posters/42af9841-e332-488d-89b6-89ff9d951590/index.html</link>
-            <guid isPermaLink="false">42af9841-e332-488d-89b6-89ff9d951590</guid>
-            <pubDate>Sun, 07 Feb 2016 21:46:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
