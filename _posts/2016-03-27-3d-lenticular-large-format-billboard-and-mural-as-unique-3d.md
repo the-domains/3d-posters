@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://beara3d.net'
-  name: Beara3d
-  favicon: null
-  domain: beara3d.net
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - miroslav
   - beara
@@ -18,17 +16,21 @@ keywords:
   - near
   - portfolio
 description: 'Large Formats of 3D and Flip Posters production, 3D Flip Billboards'
-inLanguage: en
+datePublished: '2016-03-27T08:20:22.970Z'
+dateModified: '2016-03-27T08:20:20.491Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://beara3d.net/lenticular_mural_billboard.html'
 title: '3D lenticular, large format billboard and mural as unique 3D lenticular design and print'
-datePublished: '2016-03-27T08:20:08.253Z'
-dateModified: '2016-03-27T08:18:25.343Z'
 sourcePath: _posts/2016-03-27-3d-lenticular-large-format-billboard-and-mural-as-unique-3d.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Beara3d
+  domain: beara3d.net
+  url: 'http://beara3d.net'
+  favicon: null
+url: 3d-lenticular-large-format-billboard-and-mural-as-unique-3d/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
